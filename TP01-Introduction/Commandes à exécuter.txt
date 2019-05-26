@@ -1,0 +1,11 @@
+javac Bonjour.java
+
+java Bonjour
+
+javac BonjourPersonnalise.java
+
+java BonjourPersonnalise lolo
+
+javac org/diginamic/Bonjour.java
+
+java org/diginamic/Bonjour
